@@ -1,5 +1,7 @@
 .ipynb_checkpoints
-part_1/hackernews/HN_posts_year_to_Sep_26_2016.csv
+
 part_1/appstore/AppleStore.csv
 part_1/appstore/googleplaystore.csv
 part_1/appstone/helper.py
+
+part_1/hackernews/HN_posts_year_to_Sep_26_2016.csv
