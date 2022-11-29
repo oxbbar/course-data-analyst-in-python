@@ -1,5 +1,12 @@
 # Data Analyst in Python - Career Path
 
+## Table of Contents
+- [Skills](#skills)
+- [Projects](#projects)
+- [Notebooks](#notebooks)
+- [Website](#website)
+- [Descriptions of Courses](#descriptions-of-courses)
+
 ## Skills
 
 - Python
@@ -15,13 +22,25 @@
 - Conditional Probability
 - Git
 
+## Projects
+
+- [Analysing Prison Break Data](https://github.com/oxbbar/course-data-analyst-in-python/tree/main/part_1/prisonbreak)
+- [Analysing Google Play and iOS App Store data](https://github.com/oxbbar/course-data-analyst-in-python/tree/main/part_1/appstore)
+- [Analysing Hacker News social posts and hourly website traffic](https://github.com/oxbbar/course-data-analyst-in-python/tree/main/part_1/hackernews)
+
 ## Notebooks
 
 ### Part 1: Introduction to Python
-- 
+- Part 1.1 - Introduction to Python Programming
+- Part 1.2 - For Loops and Conditional Statements in Python
+- Part 1.3 - Dictionaries, Frequency Tables, and Functions in Python
+- Part 1.4 - Python Functions and Jupyter Notebook
+- Part 1.5 - [Intermediate Python for Data Science](https://github.com/oxbbar/course-data-analyst-in-python/blob/main/part_1/p1-5-intermediate-python-for-data-science.ipynb)
 
 ### Part 2: Intermediate Python and Pandas
-- 
+- Part 2.1 - Introduction to Pandas and NumPy for Data Analysis
+- Part 2.2 - Introduction to Data Visualization in Python
+- Part 2.3 - Telling Stories Using Data Visualization and Information Design
 
 ### Part 3: Data Cleaning in Python
 - 
