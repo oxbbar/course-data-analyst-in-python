@@ -38,7 +38,7 @@
 - Part 1.5 - [Intermediate Python for Data Science](https://github.com/oxbbar/course-data-analyst-in-python/blob/main/part_1/p1-5-intermediate-python-for-data-science.ipynb)
 
 ### Part 2: Intermediate Python and Pandas
-- Part 2.1 - Introduction to Pandas and NumPy for Data Analysis
+- Part 2.1 - [Introduction to Pandas and NumPy for Data Analysis](https://github.com/oxbbar/course-data-analyst-in-python/blob/main/part_2/p2-1-introduction-to-pandas-and-numpy-for-data-analysis.ipynb)
 - Part 2.2 - Introduction to Data Visualization in Python
 - Part 2.3 - Telling Stories Using Data Visualization and Information Design
 
