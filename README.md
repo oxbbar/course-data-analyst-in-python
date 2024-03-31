@@ -25,8 +25,14 @@
 ## Projects
 
 - [Analysing Prison Break Data](https://github.com/oxbbar/course-data-analyst-in-python/tree/main/part_1/prisonbreak)
-- [Analysing Google Play and iOS App Store data](https://github.com/oxbbar/course-data-analyst-in-python/tree/main/part_1/appstore)
-- [Analysing Hacker News social posts and hourly website traffic](https://github.com/oxbbar/course-data-analyst-in-python/tree/main/part_1/hackernews)
+
+- [Analysing Android and iOS app store data](https://github.com/oxbbar/course-projects/blob/main/analysing-mobile-app-data/analysing-mobile-app-data.ipynb)
+    - Analysed Google Play Store and iOS App Store application data to identify trends and provide insight on categories and genres likely to draw high traffic with little saturation.
+    - Python; pandas; Data cleaning and analysis
+    
+- [Exploring and analysing Hacker News forum categories and hourly traffic data](https://github.com/oxbbar/course-projects/blob/main/exploring-hacker-news-posts/exploring-hacker-news-posts.ipynb)
+    - Analysed categorical posts and identified hourly trends in traffic to inform users of efficient practices.
+    - Python; pandas; Data cleaning and analysis
 
 ## Notebooks
 
